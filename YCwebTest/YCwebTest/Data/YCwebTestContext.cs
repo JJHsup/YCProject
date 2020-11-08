@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Data.Entity;
 using System.Linq;
 using System.Web;
+using YCwebTest.Models;
 
 namespace YCwebTest.Data
 {
@@ -12,6 +13,6 @@ namespace YCwebTest.Data
         {
         }
 
-        public System.Data.Entity.DbSet<YCwebTest.Models.Customer> Customers { get; set; }
+        public virtual DbSet<Customer> Customers { get; set; }
     }
 }

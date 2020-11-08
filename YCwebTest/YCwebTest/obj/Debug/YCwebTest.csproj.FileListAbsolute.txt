@@ -83,8 +83,15 @@ C:\Users\PC\Desktop\cmder\YCProject\YCwebTest\YCwebTest\bin\zh-Hant\System.Web.R
 C:\Users\PC\Desktop\cmder\YCProject\YCwebTest\YCwebTest\bin\zh-Hant\System.Web.WebPages.resources.dll
 C:\Users\PC\Desktop\cmder\YCProject\YCwebTest\YCwebTest\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
 C:\Users\PC\Desktop\cmder\YCProject\YCwebTest\YCwebTest\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
-C:\Users\PC\Desktop\cmder\YCProject\YCwebTest\YCwebTest\obj\Debug\YCwebTest.csprojAssemblyReference.cache
 C:\Users\PC\Desktop\cmder\YCProject\YCwebTest\YCwebTest\obj\Debug\YCwebTest.csproj.CoreCompileInputs.cache
 C:\Users\PC\Desktop\cmder\YCProject\YCwebTest\YCwebTest\obj\Debug\YCwebTest.csproj.CopyComplete
 C:\Users\PC\Desktop\cmder\YCProject\YCwebTest\YCwebTest\obj\Debug\YCwebTest.dll
 C:\Users\PC\Desktop\cmder\YCProject\YCwebTest\YCwebTest\obj\Debug\YCwebTest.pdb
+C:\Users\PC\Desktop\cmder\YCProject\YCwebTest\YCwebTest\bin\System.Net.Http.Formatting.dll
+C:\Users\PC\Desktop\cmder\YCProject\YCwebTest\YCwebTest\bin\System.Web.Http.dll
+C:\Users\PC\Desktop\cmder\YCProject\YCwebTest\YCwebTest\bin\System.Web.Http.WebHost.dll
+C:\Users\PC\Desktop\cmder\YCProject\YCwebTest\YCwebTest\bin\System.Net.Http.Formatting.xml
+C:\Users\PC\Desktop\cmder\YCProject\YCwebTest\YCwebTest\bin\System.Web.Http.xml
+C:\Users\PC\Desktop\cmder\YCProject\YCwebTest\YCwebTest\bin\System.Web.Http.WebHost.xml
+C:\Users\PC\Desktop\cmder\YCProject\YCwebTest\YCwebTest\obj\Debug\YCwebTest.Migrations.TT.resources
+C:\Users\PC\Desktop\cmder\YCProject\YCwebTest\YCwebTest\obj\Debug\YCwebTest.csproj.GenerateResource.cache

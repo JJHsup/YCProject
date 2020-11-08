@@ -4,7 +4,7 @@ using System.ComponentModel;
 using System.Linq;
 using System.Web;
 
-namespace YCwebTest.Models.ViewModel
+namespace YCwebTest.Models.ViewModel.ForCustomer
 {
     public class DetailViewModel
     {

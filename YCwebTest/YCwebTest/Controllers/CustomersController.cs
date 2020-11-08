@@ -9,6 +9,7 @@ using System.Web.Mvc;
 using YCwebTest.Data;
 using YCwebTest.Models;
 using YCwebTest.Models.ViewModel;
+using YCwebTest.Models.ViewModel.ForCustomer;
 
 namespace YCwebTest.Controllers
 {
