@@ -8,6 +8,7 @@ using System.Web;
 using System.Web.Mvc;
 using YCwebTest.Data;
 using YCwebTest.Models;
+using YCwebTest.Models.ViewModel;
 
 namespace YCwebTest.Controllers
 {
@@ -29,11 +30,18 @@ namespace YCwebTest.Controllers
                 return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
             }
             Customer customer = db.Customers.Find(id);
+            DetailViewModel viewModel = new DetailViewModel()
+            {
+                CustomerID = customer.CustomerID,
+                CustomerName = customer.CustomerName,
+                Email = customer.Email
+            };
             if (customer == null)
             {
                 return HttpNotFound();
             }
-            return View(customer);
+
+            return View(viewModel);
         }
 
         // GET: Customers/Create

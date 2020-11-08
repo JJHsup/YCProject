@@ -1,19 +1,20 @@
-﻿@model YCwebTest.Models.Customer
+﻿@model YCwebTest.Models.ViewModel.DetailViewModel
 
 @{
     ViewBag.Title = "Details";
 }
 
-<h2>Details</h2>
-<div class="jumbotron">
-    <h1>ASP.NET</h1>
-    <p class="lead">ASP.NET is a free web framework for building great Web sites and Web applications using HTML, CSS and JavaScript.</p>
-    <p><a href="https://asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
-</div>
 <div>
-    <h4>Customer</h4>
+    <h2>Customer</h2>
     <hr />
     <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.CustomerID)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CustomerID)
+        </dd>
         <dt>
             @Html.DisplayNameFor(model => model.CustomerName)
         </dt>
@@ -28,22 +29,6 @@
 
         <dd>
             @Html.DisplayFor(model => model.Email)
-        </dd>
-
-        <dt>
-            @Html.DisplayNameFor(model => model.Password)
-        </dt>
-
-        <dd>
-            @Html.DisplayFor(model => model.Password)
-        </dd>
-
-        <dt>
-            @Html.DisplayNameFor(model => model.Cofirmpasswordforreset)
-        </dt>
-
-        <dd>
-            @Html.DisplayFor(model => model.Cofirmpasswordforreset)
         </dd>
     </dl>
 </div>
