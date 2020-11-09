@@ -95,3 +95,4 @@ C:\Users\PC\Desktop\cmder\YCProject\YCwebTest\YCwebTest\bin\System.Web.Http.xml
 C:\Users\PC\Desktop\cmder\YCProject\YCwebTest\YCwebTest\bin\System.Web.Http.WebHost.xml
 C:\Users\PC\Desktop\cmder\YCProject\YCwebTest\YCwebTest\obj\Debug\YCwebTest.Migrations.TT.resources
 C:\Users\PC\Desktop\cmder\YCProject\YCwebTest\YCwebTest\obj\Debug\YCwebTest.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\cmder\YCProject\YCwebTest\YCwebTest\obj\Debug\YCwebTest.csprojAssemblyReference.cache
